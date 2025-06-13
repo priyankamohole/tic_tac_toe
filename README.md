@@ -49,12 +49,11 @@ Alternatively, use a Live Server (e.g., in VS Code) for automatic refresh on cha
 
 ![Tic Tac Toe Game UI]
 
-<img width="554" alt="demo1" src="https://github.com/user-attachments/assets/f1eb24f9-b6d2-4eac-83b9-8ecf86be06d8" />
+<img width="500" alt="demo1" src="https://github.com/user-attachments/assets/f1eb24f9-b6d2-4eac-83b9-8ecf86be06d8" />
 
+<img width="500" alt="demo2" src="https://github.com/user-attachments/assets/7fc550d5-36f4-4722-b060-af7535e044f9" />
 
-<img width="508" alt="demo2" src="https://github.com/user-attachments/assets/7fc550d5-36f4-4722-b060-af7535e044f9" />
-
-<img width="512" alt="demo3" src="https://github.com/user-attachments/assets/ce47a611-e0f9-4b50-b71c-d58b163dda93" />
+<img width="500" alt="demo3" src="https://github.com/user-attachments/assets/ce47a611-e0f9-4b50-b71c-d58b163dda93" />
 
 ---
 
